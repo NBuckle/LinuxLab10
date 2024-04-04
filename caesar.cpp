@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cctype>
 #include <string>
-
+//ADDING EDIT FOR SYNC
 using namespace std;
 
 string caesarCipher(string message, int shift) {
